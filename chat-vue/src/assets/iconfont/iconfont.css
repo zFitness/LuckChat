@@ -1,0 +1,41 @@
+@font-face {
+  font-family: 'my-icon';
+  src: url('iconfont.ttf?t=1607844647924') format('truetype');
+}
+
+.my-icon {
+  font-family: 'my-icon' !important;
+  position: relative;
+  font: 0.37333rem/1 'my-icon';
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+}
+
+.my-icon-nan:before {
+  content: '\e6ef';
+}
+
+.my-icon-nv:before {
+  content: '\e6f0';
+}
+
+.my-icon-add:before {
+  content: '\e621';
+}
+
+.my-icon-theme:before {
+  content: '\e618';
+}
+
+.my-icon-themeco:before {
+  content: '\e799';
+}
+
+.my-icon-Themeoutlinedicon:before {
+  content: '\e66c';
+}
+
+.my-icon-Themefilledicon:before {
+  content: '\e657';
+}
