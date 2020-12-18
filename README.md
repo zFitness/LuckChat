@@ -2,7 +2,7 @@
 
 ---
 
-![JDK](https://img.shields.io/badge/JDK-8-green.svg) ![Maven](https://img.shields.io/badge/Maven-3.6.3-important.svg)![MySQL](https://img.shields.io/badge/MySQL-5.7.28-pink.svg)![vue](https://img.shields.io/badge/vue-2.6.11-blue.svg)![vant](https://img.shields.io/badge/vant-2.10.2-success.svg)[![license](https://img.shields.io/badge/license-GPL%20v3-yellow.svg)](./LICENSE)
+![JDK](https://img.shields.io/badge/JDK-8-green.svg) ![Maven](https://img.shields.io/badge/Maven-3.6.3-important.svg) ![MySQL](https://img.shields.io/badge/MySQL-5.7.28-pink.svg) ![vue](https://img.shields.io/badge/vue-2.6.11-blue.svg) ![vant](https://img.shields.io/badge/vant-2.10.2-success.svg) [![license](https://img.shields.io/badge/license-GPL%20v3-yellow.svg)](./LICENSE)
 
 > `LuckChat` 是一个随机匿名聊天软件， 仅供学习和课设使用。如果对你有用，请给一个小小的 star。
 
@@ -26,9 +26,8 @@
 
 ## 预览
 
-<figure class="half">
-<img src="./imgs/2.png" alt="图片替换文本" width="320" height="568" align="bottom" /><img src="./imgs/1.png" alt="图片替换文本" width="320" height="568" align="bottom" /><img src="./imgs/3.png" alt="图片替换文本" width="320" height="568" align="bottom" />
-</figure>
+![](./imgs/preview.png)
+
 
 
 ## 模块介绍
