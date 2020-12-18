@@ -118,8 +118,7 @@
 
 ## 开源协议
 
-[![license](license-GPL v3-yellow.svg)](./LICENSE)
-
+ [![license](https://img.shields.io/badge/license-GPL%20v3-yellow.svg)](./LICENSE)
 
 
 
