@@ -26,7 +26,7 @@
 
 ## 预览
 
-![](./imgs/preview.png)
+![预览](./imgs/preview.png)
 
 
 
